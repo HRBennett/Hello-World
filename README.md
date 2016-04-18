@@ -1,4 +1,4 @@
 # Hello-World
 Intro to GitHub
 
-I'm learning to code via FreecodeCamp!
+I'm learning to code via FreeCodeCamp!
